@@ -3,7 +3,7 @@ Python module to cleanup ODF files.
 
 # Usage
 
-You can use the project uning the CLI script:
+You can use the project running the CLI script:
 
 ```
 $ (git::master) odfcleaner -h
